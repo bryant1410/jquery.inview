@@ -29,7 +29,7 @@ I should also add that this utility/plugin was inspired by [Dustin Diaz's][]
 [detect when an element scrolls in to view code][].
 
 
-##Demo
+## Demo
 
 The example is mostly *lorem* text, but in the middle of the page is an element
 whose text reads: "You can't see me". When the element is scrolled in to view
